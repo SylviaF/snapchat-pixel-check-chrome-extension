@@ -1,0 +1,4 @@
+# snapchat check chrome extension
+确认snap pixel上报的正确性的chrome插件
+
+通过使用chrome开发者network监听上报，并在开发者工具新开一个snap pixel checklist面板查看验证结果

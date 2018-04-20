@@ -1,0 +1,22 @@
+/*
+* @Author: fangsimin
+* @Date:   2018-03-30 10:45:01
+* @Last Modified by:   fangsimin
+* @Last Modified time: 2018-03-30 10:53:39
+*/
+
+#i8ujhq56p6l {
+	position: fixed;
+	top: 0;
+	right: 0;
+
+	height: 100%;
+	width: 200px;
+	border-right: 1px solid #333;
+
+	background: #fff;
+}
+
+#i8ujhq56p6l .cnt {
+	padding: 10px;
+}
