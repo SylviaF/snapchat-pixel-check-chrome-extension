@@ -1,18 +1,18 @@
 {
   "appName": {
-    "message": "snap pixel check chrome extension",
+    "message": "snapchat pixel check chrome extension",
     "description": "The name of the application"
   },
   "appShortName": {
-    "message": "snapPixelCheck",
+    "message": "snapchatPixelCheck",
     "description": "The short_name (maximum of 12 characters recommended) is a short version of the app's name."
   },
   "appDescription": {
-    "message": "确认snap pixel上报的正确性",
+    "message": "确认snapchat pixel上报的正确性",
     "description": "The description of the application"
   },
   "browserActionTitle": {
-    "message": "snap pixel check chrome extension",
+    "message": "snapchat pixel check chrome extension",
     "description": "The title of the browser action button"
   }
 }

@@ -138,7 +138,7 @@ export default class CheckList extends React.Component {
                     : <p className="result text-error">
                         <i className="close"></i> pixel id错误</p>;
             } else {
-                return <p className="text-warning">请在pixel id输入框输入后台取到的pixel id</p>;
+                return <p className="text-warning">请在【Snapchat提供的pixel id】输入框输入Snapchat后台取到的pixel id</p>;
             }
         } else {
             return <p className="text-warning">{param['hint']}</p>;
