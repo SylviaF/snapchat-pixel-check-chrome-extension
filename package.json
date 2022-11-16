@@ -24,7 +24,7 @@
   },
   "devDependencies": {
     "babel-core": "6.18.0",
-    "babel-loader": "6.2.7",
+    "babel-loader": "9.1.0",
     "babel-preset-es2015": "6.18.0",
     "babel-preset-react": "6.16.0",
     "chai": "4.x.x",
@@ -53,7 +53,7 @@
     "standard": "^10.0.2",
     "vinyl-named": "1.x.x",
     "webpack": "3.x.x",
-    "webpack-stream": "3.x.x",
+    "webpack-stream": "7.x.x",
     "yargs": "^8.x.x"
   },
   "dependencies": {
